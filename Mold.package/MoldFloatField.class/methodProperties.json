@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"initialize" : "MasashiUmezawa 11/27/2015 14:41",
+		"bootstrapWidgetOn:" : "PhilippeBack 10/26/2014 21:56",
+		"validateConditions" : "kdt 7/15/2009 18:02",
+		"disinfect:" : "HilaireFernandes 3/28/2017 14:51",
+		"infect:" : "kdt 8/28/2008 09:57",
+		"widgetOn:" : "kdt 8/28/2008 09:58"
+	},
+	"class" : { }
+}

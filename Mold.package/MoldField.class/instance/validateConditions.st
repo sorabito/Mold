@@ -1,0 +1,3 @@
+private
+validateConditions
+	^ self validateUserConditions

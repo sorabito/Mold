@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"format:dayOn:" : "KenTreis 8/9/2010 19:09",
+		"widgetOn:" : "KenTreis 8/9/2010 23:04",
+		"format:monthOn:" : "KenTreis 8/9/2010 21:37",
+		"bootstrapWidgetOn:" : "PhilippeBack 10/26/2014 21:57",
+		"formatString" : "KenTreis 8/9/2010 22:37",
+		"initialize" : "HilaireFernandes 4/5/2015 21:08",
+		"disinfect:" : "HilaireFernandes 3/5/2017 11:08",
+		"infect:" : "KenTreis 8/9/2010 19:09",
+		"format:token:on:" : "KenTreis 8/9/2010 19:08",
+		"formatString:" : "KenTreis 8/25/2010 09:54",
+		"validateConditions" : "HilaireFernandes 3/6/2017 17:54",
+		"format:yearOn:" : "KenTreis 8/9/2010 21:37"
+	},
+	"class" : { }
+}

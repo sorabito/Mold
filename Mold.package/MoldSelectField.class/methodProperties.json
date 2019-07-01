@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"list" : "",
+		"bootstrapWidgetOn:" : "PhilippeBack 10/26/2014 21:56",
+		"onChange" : "kdt 4/4/2008 11:19",
+		"initialize" : "kdt 8/28/2008 10:03",
+		"onChange:" : "kdt 4/4/2008 11:19",
+		"optionalLabel:" : "kdt 8/28/2008 10:03",
+		"labels:" : "",
+		"labels" : "",
+		"list:" : "",
+		"labelFor:" : "",
+		"widgetOn:" : "kdt 8/28/2008 10:03"
+	},
+	"class" : { }
+}
