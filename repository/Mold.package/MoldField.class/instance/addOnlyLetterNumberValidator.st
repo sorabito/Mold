@@ -1,3 +1,0 @@
-actions-validators
-addOnlyLetterNumberValidator
-	self addCustomValidator: 'onlyLetterNumber'

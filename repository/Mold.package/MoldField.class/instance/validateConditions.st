@@ -1,3 +1,0 @@
-private
-validateConditions
-	^ self validateUserConditions
