@@ -10,3 +10,19 @@ The goal is to make a version that will work with Twitter Bootstrap.
 Compared to the original code, everything is prefixed with Mold in order to avoid name clashes.
 
 Point your browser to: http://localhost:8088/examples/mold
+
+## Installation ##
+
+Just do it:
+
+```Smalltalk
+Metacello new
+  baseline: 'Mold';
+  repository: 'github://sorabito/Mold/repository';
+  load.
+```
+  
+## License ##
+MIT
+
+  
