@@ -1,3 +1,3 @@
-*mold-options
+*Mold-Core
 beButton
 	self class: 'btn'.
