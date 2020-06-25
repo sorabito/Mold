@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MoldStringField",
+	"category" : "Mold-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MoldEmailField",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+initialization
+buildMold
+	self buildMoldRegistration

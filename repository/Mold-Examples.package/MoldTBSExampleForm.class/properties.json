@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "PhilippeBack 10/26/2014 21:15",
+	"super" : "WAComponent",
+	"category" : "Mold-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mold",
+		"format",
+		"options"
+	],
+	"name" : "MoldTBSExampleForm",
+	"type" : "normal"
+}

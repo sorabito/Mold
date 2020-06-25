@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MoldSelectField",
+	"category" : "Mold-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MoldMultiSelectField",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MoldFloatField",
+	"category" : "Mold-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MoldPercentageField",
+	"type" : "normal"
+}

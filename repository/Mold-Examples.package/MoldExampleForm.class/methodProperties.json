@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"initialize" : "",
+		"renderCustomOn:" : "kdt 8/27/2008 08:35",
+		"renderContentOn:" : "kdt 8/26/2008 21:13",
+		"style" : "kdt 8/27/2008 08:37",
+		"renderFormatChoicesOn:" : "",
+		"buildMold" : "kdt 8/26/2008 21:58"
+	},
+	"class" : {
+		"initialize" : "PhilippeBack 10/26/2014 19:55",
+		"canBeRoot" : ""
+	}
+}

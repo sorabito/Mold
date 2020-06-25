@@ -1,0 +1,29 @@
+{
+	"commentStamp" : "kdt 8/26/2008 21:56",
+	"super" : "Object",
+	"category" : "Mold-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"key",
+		"isRequired",
+		"conditions",
+		"errors",
+		"label",
+		"value",
+		"callback",
+		"modifyBlock",
+		"input",
+		"title",
+		"dynamicLabel",
+		"example",
+		"requiredMessage",
+		"invalidMessage",
+		"translator",
+		"classes",
+		"validators"
+	],
+	"name" : "MoldField",
+	"type" : "normal"
+}
